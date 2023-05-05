@@ -4,7 +4,7 @@ import random
 import telebot
 
 URL = 'https://www.anekdot.ru/last/good/'
-API_KEY = '6273094098:AAEV2Y0wgYB1_92EA6Z8qL2g_C0QmJcXVgY'
+API_KEY = 'xxxxxxxx'
 
 
 def parser(url):
